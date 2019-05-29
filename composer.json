@@ -1,0 +1,10 @@
+{
+    "name": "phpbenchmarks/mkframework-common",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PhpBenchmarksMkframework\\RestApiBenchmark\\": ""
+        }
+    }
+}
