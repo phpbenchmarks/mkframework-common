@@ -8,9 +8,8 @@ class module_global_default extends module_global{
 	}
 
 	public function _index(){
-	  $oView=$this->getView('index');
-
-		$this->oLayout->add('main',$oView);
+	  echo 'Hello World !'
+		exit;
 	}
 
 
