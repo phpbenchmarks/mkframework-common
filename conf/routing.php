@@ -1,6 +1,6 @@
 <?php
 $tab=array(
-		'benchmark/helloworld' => array(
+		'helloworld' => array(
 						'nav'=>'global_default::index',
 
 						),
